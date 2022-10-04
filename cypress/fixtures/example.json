@@ -1,0 +1,20 @@
+{
+  "Cred": {
+    "Username": "KZ",
+    "Password": "123"
+  },
+  "Accounts": {
+    "checking1": ["13677", "215.5"],
+    "checking2": ["13788", 100.0],
+    "savings1": ["13899", 100.0],
+    "savings2": ["14010", 100.0]
+  },
+  "Amounts":{
+    "validAmount" : "200",
+    "moreThanBalance" : "5000",
+    "negativeAmount" : "-100",
+    "0" : "0",
+    "specialChar" : "@",
+    "char" : "x"
+  }
+}
